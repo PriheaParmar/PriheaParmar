@@ -1,3 +1,5 @@
+# https://i.pinimg.com/originals/e7/91/61/e791611718215a0cfc0ab96e71d1dc3f.gif
+
 # 💫 About Me:
 Hi! 🌸 I'm Priya , a tech enthusiast, coding explorer, and creative soul. 💻🎨 I love learning, building cool projects, and spreading good vibes! ✨💫<br>
 
@@ -14,7 +16,7 @@ Hi! 🌸 I'm Priya , a tech enthusiast, coding explorer, and creative soul. 💻
 
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=priheaparmar&limit=5&theme=omni&combine_all_yearly_contributions=true)
+![]([https://github-contributor-stats.vercel.app/api?username=priheaparmar&limit=5&theme=omni&combine_all_yearly_contributions=true](https://i.pinimg.com/originals/e7/91/61/e791611718215a0cfc0ab96e71d1dc3f.gif))
 
 ---
 [![](https://visitcount.itsvg.in/api?id=priheaparmar&icon=7&color=10)](https://visitcount.itsvg.in)
