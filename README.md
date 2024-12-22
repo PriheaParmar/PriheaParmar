@@ -1,4 +1,3 @@
-# https://i.pinimg.com/originals/e7/91/61/e791611718215a0cfc0ab96e71d1dc3f.gif
 
 # 💫 About Me:
 Hi! 🌸 I'm Priya , a tech enthusiast, coding explorer, and creative soul. 💻🎨 I love learning, building cool projects, and spreading good vibes! ✨💫<br>
