@@ -1,10 +1,11 @@
+# Hi there 👋, I'm Priya Parmar  
 
-# 💫 About Me:
-Hi! 🌸 I'm Priya , a tech enthusiast, coding explorer, and creative soul. 💻🎨 I love learning, building cool projects, and spreading good vibes! ✨💫<br>
+🌱 **Exploring Technology & Ideas**  
+💻 BCA Student | Passionate Learner | Tech Explorer  
+🚀 Building projects in Python, Web Dev, and AI  
+✨ On a journey of growth, curiosity, and creation  
 
-
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/priheaparmar) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/prihea) 
+---
 
 ## 🛠️ Skills & Tools  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
@@ -21,10 +22,26 @@ Hi! 🌸 I'm Priya , a tech enthusiast, coding explorer, and creative soul. 💻
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
 
+---
+
+## 📌 Featured Projects  
+- 🚀 [**Space H**](#) – Explore space activities in a fun way 🌌  
+- 💊 [**Prescription Generator (PWA Edition)**](#) – Role-based app with OTP login & PDF export  
+- 🤖 [**Legal Bot (Flask + MongoDB)**](#) – Chatbot with session-based conversations  
+- 🎮 [**Mini Python Projects**](#) – Games, utilities, and experiments  
+
+---
+
+## 📈 GitHub Stats  
+![Priya's GitHub stats](https://github-readme-stats.vercel.app/api?username=PriyaParmar&show_icons=true&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PriyaParmar&layout=compact&theme=tokyonight)  
+
+---
+
 ## 📫 Connect With Me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prihea)  
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)  
 
-[![](https://visitcount.itsvg.in/api?id=priheaparmar&icon=7&color=10)](https://visitcount.itsvg.in)
+---
 
-
+✨ *“Every day is progress — small steps build big futures.”*  
