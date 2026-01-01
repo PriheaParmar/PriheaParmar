@@ -5,10 +5,6 @@
 **Software Developer** • I build cute UIs & powerful web apps ☁️💻  
 always learning • always building • always improving 🌙
 
-<a href="https://prihea-portfolio.vercel.app/"><b>Portfolio</b></a>  •
-<a href="https://www.linkedin.com/in/prihea"><b>LinkedIn</b></a>  •
-<a href="mailto:thepriyaparmar@gmail.com"><b>Email</b></a>
-
 </div>
 
 ---
