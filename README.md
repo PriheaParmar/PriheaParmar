@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f2937&height=180&section=header&text=Priya%20Parmar&fontSize=52&fontColor=ffffff&animation=twinkling&desc=welcome%20to%20my%20github%20%E2%9C%A8&descSize=18&descAlignY=72" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f2937&height=180&section=header&text=Priya%20Parmar&fontSize=52&fontColor=ffffff&animation=twinkling&desc=Software%20Developer%20%E2%80%A2%20React%20%7C%20Node%20%7C%20Python&descSize=18&descAlignY=72" />
 
 **Software Developer** • I build cute UIs & powerful web apps ☁️💻  
 always learning • always building • always improving 🌙
