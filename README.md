@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f2937&height=180&section=header&text=Priya%20Parmar&fontSize=52&fontColor=ffffff&animation=twinkling&desc=Software%20Developer%20%E2%80%A2%20React%20%7C%20Node%20%7C%20Python&descSize=18&descAlignY=72" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f2937&height=180&section=header&text=Priya%20Parmar&fontSize=52&fontColor=ffffff&animation=twinkling&desc=Software%20Developer&descSize=18&descAlignY=72" />
 
 **Software Developer** • I build cute UIs & powerful web apps ☁️💻  
 always learning • always building • always improving 🌙
@@ -15,7 +15,7 @@ always learning • always building • always improving 🌙
 
 <div align="center">
 
-#### ✦ tech stack ✦
+#### ✦ tech ✦
 
 **languages**  
 <img height="30" src="https://skillicons.dev/icons?i=js,ts,python,java,c,cpp,php&theme=dark" /><br/>
