@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f2937&height=180&section=header&text=Priya%20Parmar&fontSize=52&fontColor=ffffff&animation=twinkling&desc=Software%20Developer&descSize=18&descAlignY=72" />
 
-**Software Developer** • I build cute UIs & powerful web apps ☁️💻  
+I build cute UIs & powerful web apps ☁️💻  
 always learning • always building • always improving 🌙
 
 <a href="https://prihea-portfolio.vercel.app/"><b>portfolio</b></a>  ·
