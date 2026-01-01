@@ -1,16 +1,104 @@
-<h1 align="center">Hello You!, I'm Priya</h1>
-<h3 align="center">🌸 Tech Explorer | 💻 BCA Student | 🚀 Future Developer</h3>
+<!-- Profile README — Priya Parmar -->
 
+<div align="center">
 
+# Priya Parmar  
+**Web Developer | React • Node.js • Python | Building fast, accessible web apps**
 
+Ahmedabad, India • `she/her`  
+📫 **Email:** priheaparmar@gmail.com
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+<a href="YOUR_PORTFOLIO_LINK">Portfolio</a> •
+<a href="YOUR_LINKEDIN_LINK">LinkedIn</a> •
+<a href="YOUR_RESUME_LINK">Resume</a>
 
+</div>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/not.prihea" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="not.prihea" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/prihea" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prihea" height="30" width="40" /></a>
-<a href="https://instagram.com/prihea" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="prihea" height="30" width="40" /></a>
-</p>
+---
+
+## About
+I’m a BCA student and web developer focused on building **clean, scalable, user-friendly** applications.  
+Currently working as a **Web Developer at Devam Technologies**, collaborating with teams to improve UI, performance, and maintainable front-end architecture.
+
+- ✅ Frontend: React, Next.js, Tailwind, Bootstrap  
+- ✅ Backend: Node/Express, Flask/Django  
+- ✅ Databases: MongoDB, MySQL, PostgreSQL, SQLite  
+- ✅ APIs: REST, Gemini API, OpenAI API, Firebase
+
+---
+
+## Experience
+**Web Developer — Devam Technologies (June 2025 – Present)**  
+- Building and deploying interactive web apps using modern UI frameworks  
+- Integrating REST APIs and writing clean, modular code  
+- Working with Git and Agile sprint cycles
+
+**Web Developer Intern — Devam Technologies (Dec 2024 – May 2025)**  
+- Built reusable components and improved UI performance  
+- Debugging, cross-browser testing, code reviews
+
+**Web Developer Intern — DGP Investigation Agency (Apr 2024 – Jul 2024)**  
+- Built web interfaces + backend modules (Python/PHP/MySQL)  
+- Implemented secure authentication flows and optimized performance
+
+---
+
+## Featured Projects
+> Replace `REPO_LINK` + `LIVE_DEMO` with your actual links.
+
+### 🚀 Candy — Job Application Automation Tool
+**Python • Flask • REST APIs • SQLite**
+- Resume tracking, interview management, and smart reminders  
+- Built to simplify job-hunting workflows  
+Repo: REPO_LINK • Demo: LIVE_DEMO
+
+### 🤖 Legal Bot — AI Legal Assistant
+**Python • Flask • MongoDB • Gemini API**
+- Chat-based legal query assistant with real-time responses  
+Repo: REPO_LINK • Demo: LIVE_DEMO
+
+### 🎉 Happinest — Real-time Celebration Rooms
+**React • Node/Flask • Firebase/MongoDB**
+- Shared rooms for online birthday celebrations with animations  
+Repo: REPO_LINK • Demo: LIVE_DEMO
+
+### ⏳ Euphoric — Productivity Chrome Extension
+**JavaScript • Chrome API • Bootstrap**
+- Focus timers, notes, productivity analytics  
+Repo: REPO_LINK
+
+### ✨ Portfolio
+**React • Tailwind • Figma**
+- Interactive UI, animations, fully responsive layout  
+Repo: REPO_LINK • Live: LIVE_DEMO
+
+---
+
+## Tech Stack (organized)
+**Languages:** Python, Java, JavaScript (ES6), TypeScript, C/C++, PHP  
+**Frontend:** React, Next.js, Tailwind, Bootstrap, GSAP  
+**Backend:** Node.js, Express, Flask, Django  
+**Databases:** MongoDB, MySQL, PostgreSQL, SQLite, Firebase  
+**Tools:** Git/GitHub, Postman, Figma, VS Code
+
+---
+
+## Education
+**BCA — Silver Oak University (2022 – 2025)**  
+CGPA: **9.18**
+
+---
+
+## What I’m focusing on now
+- Building polished full-stack projects with clean documentation  
+- Performance + accessibility-first UI  
+- Strong backend patterns (auth, data modeling, APIs)
+
+---
+
+<div align="center">
+
+### Let’s build something great.
+If you’re hiring or collaborating, feel free to reach out: **priheaparmar@gmail.com**
+
+</div>
